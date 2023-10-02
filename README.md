@@ -1,45 +1,70 @@
-# Node.js(Express)
+# Getting Started with Create React App
 
-Express로 구현된 Node.js 백엔드 어플리케이션 템플릿입니다.
-## 🖇️ 준비 및 확인사항
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### 지원 Node 버전
-- 8, 10, 12, 14, 16, 18
-- ⚠️ 로컬/테스트 환경과 클라우드타입에서 설정한 Node 버전이 상이한 경우 정상적으로 빌드되지 않을 수 있습니다.
+## Available Scripts
 
-### 패키지 명세
-- 빌드 시 어플리케이션에 사용된 패키지를 설치하기 위해서는 `package.json`, `package-json.json`, `yarn.lock` 중 1개의 파일이 저장소에 반영되어 있어야합니다.
-## ⌨️ 명령어
+In the project directory, you can run:
 
-### Install
+### `npm start`
 
-```bash
-  npm ci
-```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Start
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-```bash
-  npm start
-```
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 🏷️ 환경변수
+### `npm run build`
 
-- `NODE_ENV`: production(default) 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## 💬 문제해결
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- [클라우드타입 Docs](https://docs.cloudtype.io/)
+### `npm run eject`
 
-- [클라우드타입 FAQ](https://help.cloudtype.io/guide/faq)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-- [Discord](https://discord.gg/U7HX4BA6hu)
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## 📄 License
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
