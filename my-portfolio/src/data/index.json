@@ -1,0 +1,77 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/frontend.png",
+        "title": "Front-End",
+        "description": "Creating visually appealing, user-friendly,  and responsive websites using HTML, CSS, JavaScript, and React. Developing web-based applications that can perform complex functions: data processing and user authentication."
+      },
+      {
+        "id": "2",
+        "src": "./img/backend.png",
+        "title": "Back-End",
+        "description": "Architecting robust and scalable server-side solutions with expertise in Python, Node.js, and SQL databases to power your web applications with seamless functionality and performance."
+      },
+      {
+        "id": "3",
+        "src": "./img/database.png",
+        "title": "Database Management",
+        "description": "Designing efficient and secure database systems, leveraging SQL and NoSQL technologies, to seamlessly manage and retrieve data, ensuring your applications run with precision and reliability."
+      },
+      {
+        "id": "4",
+        "src": "./img/deploy.png",
+        "title": "DevOps and Deployment",
+        "description": "Streamlining software deployment and scalability through expert DevOps practices, including Docker, Kubernetes, and CI/CD pipelines."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/seedlibrary.png",
+        "title": "Seed Library Online Platform",
+        "description": "The Seed Library Online Platform Project leverages REST and SOAP APIs to facilitate the sharing and exchange of agricultural seed resources among growers, promoting sustainable farming practices.",
+        "link": "Details in GitHub"
+      },
+      {
+        "id": "2",
+        "src": "./img/librarymanagementsystem.png",
+        "title": "Library Management System",
+        "description": "The Library Management System Project in C# automates book cataloging, lending, and tracking, streamlining library operations for efficient book management.",
+        "link": "Details in GitHub"
+      },
+      {
+        "id": "3",
+        "src": "./img/foodchoicemobileapp.png",
+        "title": "Food Choice Mobile App",
+        "description": "A Flutter and Dart-powered Food Choice Mobile App simplifies dining decisions by enabling users to explore and track their favorite dishes from the menu seamlessly.",
+        "link": "Details in GitHub"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/Audrey.png",
+        "description": "Outstanding full-stack development – your expertise brought our project to life!",
+        "author_name": "Audrey Hepburn",
+        "author_designation": "Hollywood"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/Bread.png",
+        "description": "Your full-stack expertise transformed our project into a seamless digital experience – thank you!",
+        "author_name": "Bread Pitt",
+        "author_designation": "Netflix"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/Amanda.png",
+        "description": "Thanks for the seamless blend of design and functionality! I really recommend this full-stack service!",
+        "author_name": "Amanda Seyfried",
+        "author_designation": "Tim Hortons"
+      }
+    ]
+  }
